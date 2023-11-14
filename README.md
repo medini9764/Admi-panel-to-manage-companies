@@ -25,6 +25,18 @@ _Update Company_
 ![Screenshot (1175)](https://github.com/medini9764/Admi-panel-to-manage-companies/assets/61826590/95028db4-f711-44e9-b28e-e7c1f9a29d05)
 ![Screenshot (1176)](https://github.com/medini9764/Admi-panel-to-manage-companies/assets/61826590/023d630c-9cdc-4fa9-bada-39c54306a142)
 
+**Employee**
+![Screenshot (1187)](https://github.com/medini9764/Admi-panel-to-manage-companies/assets/61826590/f8a70b63-ad0c-46b5-b677-e90b581249d6)
+_Add Employee_
+![Screenshot (1180)](https://github.com/medini9764/Admi-panel-to-manage-companies/assets/61826590/dfa7a06d-5354-4d3e-b60e-1e8a759787e5)
+_Update_
+![Screenshot (1183)](https://github.com/medini9764/Admi-panel-to-manage-companies/assets/61826590/2cbc7ebe-593a-4a97-89ba-5e665dd454f4)
+![Screenshot (1185)](https://github.com/medini9764/Admi-panel-to-manage-companies/assets/61826590/f509ae61-6a94-4363-a86d-d73feff21e7a)
+
+
+
+
+
 
 
 
