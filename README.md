@@ -33,6 +33,8 @@ _Update_
 ![Screenshot (1183)](https://github.com/medini9764/Admi-panel-to-manage-companies/assets/61826590/2cbc7ebe-593a-4a97-89ba-5e665dd454f4)
 ![Screenshot (1185)](https://github.com/medini9764/Admi-panel-to-manage-companies/assets/61826590/f509ae61-6a94-4363-a86d-d73feff21e7a)
 
+Also can delete Companies and Employees. If you delete   Company, System automatically deletes employees who work for that company.
+
 
 
 
